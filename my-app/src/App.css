@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+
+.content {
+  margin-top: 3em;
+  width: 400px;
+  height: 70vh;
+  display: inline-flex;
+  background: red;
+}
+
+.content2 {
+  margin-top: 3em;
+  width: 400px;
+  height: 70vh;
+  display: inline-flex;
+  background: aqua;
+}
