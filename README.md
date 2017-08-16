@@ -31,4 +31,14 @@ App.js<br/>
   |</br>
    --FirstPage.js</br>
   |<br/>
-   --SecondPage.js
+   --SecondPage.js <br/> <br/>
+   
+   **Running this Example** <br>
+   After you do a git clone, <br/>
+   $npm install<br>
+   $cd my-app<br/>
+   $npm start<br/>
+   
+   browse to http://localhost:3000 and click on the buttons to see the magic!<br/>
+   Happy Routing!
+   
